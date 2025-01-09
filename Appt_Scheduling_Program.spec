@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Program_Final__LuxuryBath.py'],
+    ['Appt_Scheduling_Program.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='Program_Final__LuxuryBath',
+    name='Appt_Scheduling_Program',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -38,7 +38,7 @@ exe = EXE(
 )
 app = BUNDLE(
     exe,
-    name='Program_Final__LuxuryBath.app',
+    name='Appt_Scheduling_Program.app',
     icon=None,
     bundle_identifier=None,
 )
