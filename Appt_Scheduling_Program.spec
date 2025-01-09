@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Appt_Scheduling_Program.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],
