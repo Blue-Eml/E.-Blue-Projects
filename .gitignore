@@ -1,2 +1,35 @@
+# macOS system files
 .DS_Store
-Scheduling_App_dist.zip
+
+# Windows system files
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.env/
+.venv/
+venv/
+
+# Distribution files
+*.tar.gz
+*.zip
+*.egg
+*.dist-info/
+
+# Build folders 
+build/
+dist/
+*.spec
+
+# Log files
+*.log
+
+# Temporary or editor files
+*.swp
+*.swo
+*.swn
