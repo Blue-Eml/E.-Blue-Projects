@@ -1,4 +1,0 @@
-([('Program_Final__LuxuryBath',
-   '/Users/emilyblue/Desktop/Assignments LB '
-   'Program/dist/Program_Final__LuxuryBath',
-   'EXECUTABLE')],)
