@@ -33,3 +33,8 @@ dist/
 *.swp
 *.swo
 *.swn
+
+
+# VS Code settings
+.vscode/
+
