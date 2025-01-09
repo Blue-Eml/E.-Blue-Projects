@@ -34,7 +34,6 @@ dist/
 *.swo
 *.swn
 
-
 # VS Code settings
 .vscode/
 
