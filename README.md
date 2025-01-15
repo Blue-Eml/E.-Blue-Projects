@@ -23,7 +23,7 @@ This project is a tool developed during my internship for a bathroom remodeling 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/Blue-Eml/appointment-scheduling-app.git
    ``` 
 
@@ -39,7 +39,7 @@ This project is a tool developed during my internship for a bathroom remodeling 
 
 4. Run the application:
    ``` 
-python main.py  
+   python main.py  
    ``` 
 
 
