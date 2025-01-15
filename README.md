@@ -39,6 +39,5 @@ This project is a tool developed during my internship for a bathroom remodeling 
 
 4. Run the application:
    ```bash
-python main.py
-   ``` 
+python main.py  
 
